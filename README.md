@@ -31,8 +31,7 @@ Each project contains its own README with:
 ## 🛠️ Technologies Used
 
 - [Python 3.x](https://www.python.org/)
-- Common libraries: `requests`, `beautifulsoup4`, `tkinter`, etc.
-- *(Add or remove libraries as per your projects)*
+- Common libraries:`random`,`requests`, `beautifulsoup4`, `tkinter`, etc.
 
 ## 🤝 Contributing
 
